@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnjaraHerman
 - 👀 I’m interested in Work
-- 🌱 I’m currently learning Vuejs
+- 🌱 I’m currently learning Vuejs, Nuxt js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/anjara-herman-razanakolona-b63112228/
 
